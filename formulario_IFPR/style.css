@@ -1,0 +1,13 @@
+
+/*Zerando a margem no HTML*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Estilização da tag body*/
+body{
+    background: #1f1f1f;
+    color: antiquewhite;
+
+}
